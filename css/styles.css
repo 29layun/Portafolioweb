@@ -55,10 +55,10 @@ section{
 }
 
 .logo{
-    font-size: 4rem;
-    color: var(--text-color);
-    font-weight: 600;
     cursor: default;
+}
+.logo img {
+    width: 200px;
 }
 .navbar a{
     font-size: 2rem;
